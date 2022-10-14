@@ -1,7 +1,7 @@
 const draggable_list = document.getElementById('draggable-list');
 
 const allTubs = [
-    '_/tubs/bluespark.png',
+    '/tubs/bluespark.png',
     '/tubs/grapeblast.png',
     '/tubs/seismiccola.png',
     '/tubs/razormelon.png',
