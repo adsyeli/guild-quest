@@ -1,20 +1,20 @@
 const draggable_list = document.getElementById('draggable-list');
 
 const allTubs = [
-    '/tubs/bluespark.png',
-    '/tubs/grapeblast.png',
-    '/tubs/seismiccola.png',
-    '/tubs/razormelon.png',
-    '/tubs/slashberry.png',
-    '/tubs/finalflash.png',
-    '/tubs/suckerpunch.png',
-    '/tubs/aussieantics.png',
-    '/tubs/bubblebeam.png',
-    '/tubs/dragonrage.png',
-    '/tubs/sweetkiss.png',
-    '/tubs/jawbreaker.png',
-    '/tubs/citrusbomb.png',
-    '/tubs/neondimensions.png',
+    './tubs/bluespark.png',
+    './tubs/grapeblast.png',
+    './tubs/seismiccola.png',
+    './tubs/razormelon.png',
+    './tubs/slashberry.png',
+    './tubs/finalflash.png',
+    './tubs/suckerpunch.png',
+    './tubs/aussieantics.png',
+    './tubs/bubblebeam.png',
+    './tubs/dragonrage.png',
+    './tubs/sweetkiss.png',
+    './tubs/jawbreaker.png',
+    './tubs/citrusbomb.png',
+    './tubs/neondimensions.png',
 ];
 
 // Store listitems
